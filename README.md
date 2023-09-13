@@ -1,2 +1,2 @@
 # kalam-tribute-page
-APJ Abdul Kalam Page using HTML &amp; CSS
+APJ Abdul Kalam Tribute Page using HTML &amp; CSS
