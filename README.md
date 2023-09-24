@@ -15,6 +15,10 @@ Steps:
 
 4. Deployment: CodePipeline fetches code changes and deploys the website to S3.
 
-5. Custom Domain (Optional): You can set up a custom domain using Amazon Route 53 for my S3-hosted website.
+5. Custom Domain (Optional): You can set up a custom domain using Amazon Route 53.
 
+
+### Diagram
+
+![Diagram](0.jpg)
 
