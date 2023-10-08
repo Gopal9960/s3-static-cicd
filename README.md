@@ -5,7 +5,7 @@ Visit the website here: [http://kalam-tribute-page.s3-website.ap-south-1.amazona
 
 ## Diagram
 <div align="center">
-  <img src="0.jpg" alt="Diagram">
+  <img src="diagram.png" alt="Diagram">
 </div>
 
 **Step 1: Set Up Your Amazon S3 Hosting**
